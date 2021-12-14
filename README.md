@@ -3,9 +3,8 @@ Welcome to my Git! 🙏🏻
 _____________________________________________
 **Highlights**
 
-![Devops1](https://user-images.githubusercontent.com/73438087/145888718-b7ebfd5a-c346-45c9-9b78-c23874d33dbc.jpeg)     
-![web-development-frameworks](https://user-images.githubusercontent.com/73438087/145888816-771ff8bf-a796-4855-8568-ea0598cc4ce4.jpg)
-![testingFrameworks](https://user-images.githubusercontent.com/73438087/145888840-b2e77d73-1aaa-498c-a565-b7138819904b.jpg)
+![github_highlights](https://user-images.githubusercontent.com/73438087/145928496-76539ce5-2a28-434b-a941-3075d9bc9bfb.png)
+
 
 
 **About me**
